@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -155,22 +156,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1598" height="345" key="GridCell.Tab.0.bottom" timestamp="1576343239612">
+    <state x="858" y="314" key="CommitChangelistDialog2" timestamp="1576343659002">
       <screen x="39" y="23" width="3401" height="1417" />
     </state>
-    <state width="1598" height="345" key="GridCell.Tab.0.bottom/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239612" />
-    <state width="1598" height="345" key="GridCell.Tab.0.center" timestamp="1576343239612">
+    <state x="858" y="314" key="CommitChangelistDialog2/39.23.3401.1417@39.23.3401.1417" timestamp="1576343659002" />
+    <state x="39" y="134" key="DiffContextDialog" timestamp="1576343706422">
       <screen x="39" y="23" width="3401" height="1417" />
     </state>
-    <state width="1598" height="345" key="GridCell.Tab.0.center/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239612" />
-    <state width="1598" height="345" key="GridCell.Tab.0.left" timestamp="1576343239611">
+    <state x="39" y="134" key="DiffContextDialog/39.23.3401.1417@39.23.3401.1417" timestamp="1576343706422" />
+    <state width="1598" height="280" key="GridCell.Tab.0.bottom" timestamp="1576343720467">
       <screen x="39" y="23" width="3401" height="1417" />
     </state>
-    <state width="1598" height="345" key="GridCell.Tab.0.left/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239611" />
-    <state width="1598" height="345" key="GridCell.Tab.0.right" timestamp="1576343239612">
+    <state width="1598" height="280" key="GridCell.Tab.0.bottom/39.23.3401.1417@39.23.3401.1417" timestamp="1576343720467" />
+    <state width="1598" height="280" key="GridCell.Tab.0.center" timestamp="1576343720466">
       <screen x="39" y="23" width="3401" height="1417" />
     </state>
-    <state width="1598" height="345" key="GridCell.Tab.0.right/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239612" />
+    <state width="1598" height="280" key="GridCell.Tab.0.center/39.23.3401.1417@39.23.3401.1417" timestamp="1576343720466" />
+    <state width="1598" height="280" key="GridCell.Tab.0.left" timestamp="1576343720465">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="280" key="GridCell.Tab.0.left/39.23.3401.1417@39.23.3401.1417" timestamp="1576343720465" />
+    <state width="1598" height="280" key="GridCell.Tab.0.right" timestamp="1576343720466">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="280" key="GridCell.Tab.0.right/39.23.3401.1417@39.23.3401.1417" timestamp="1576343720466" />
     <state width="1598" height="345" key="GridCell.Tab.1.bottom" timestamp="1576343239614">
       <screen x="39" y="23" width="3401" height="1417" />
     </state>
@@ -187,5 +196,17 @@
       <screen x="39" y="23" width="3401" height="1417" />
     </state>
     <state width="1598" height="345" key="GridCell.Tab.1.right/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239613" />
+    <state x="1110" y="429" key="RollbackChangesDialog" timestamp="1576343714797">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state x="1110" y="429" key="RollbackChangesDialog/39.23.3401.1417@39.23.3401.1417" timestamp="1576343714797" />
+    <state x="847" y="451" key="Vcs.Push.Dialog.v2" timestamp="1576343661032">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state x="847" y="451" key="Vcs.Push.Dialog.v2/39.23.3401.1417@39.23.3401.1417" timestamp="1576343661032" />
+    <state x="991" y="510" key="git4idea.merge.GitPullDialog" timestamp="1576343682787">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state x="991" y="510" key="git4idea.merge.GitPullDialog/39.23.3401.1417@39.23.3401.1417" timestamp="1576343682787" />
   </component>
 </project>
