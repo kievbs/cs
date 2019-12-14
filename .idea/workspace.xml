@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28e7e325-5d90-467f-9d70-15bd89f065d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ur4JgcL66S9HtZ9lZx7QY6xoGE" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.TestLRUCacheWithLinkedHashMap">
+    <configuration name="TestLRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lru.TestLRUCache" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLRUCacheWithLinkedHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lru.TestLRUCacheWithLinkedHashMap" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestLRUCacheWithLinkedHashMap" />
+        <item itemvalue="Application.TestLRUCache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Shared/fb/akka-http-microservice" value="1470940912000" />
+        <entry key="$PROJECT_DIR$/../../../Shared/fb/akka-http-microservice-quickstart" value="1470853173000" />
+        <entry key="$PROJECT_DIR$/../../../Shared/fb/fb-mapi" value="1470941792000" />
+        <entry key="$PROJECT_DIR$/../../../Shared/fb/slick-codegen-customization-example" value="1470865394000" />
+        <entry key="$PROJECT_DIR$/../../../Shared/fb/slick-codegen-example" value="1470880724000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/nc/akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/nc/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/nc/play-scala-forms-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/nc/play-scala-reactive-maps" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/nc/play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/nc/play-scala-secure-session-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/nc/play-scala-tls-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/nc/reactive-maps" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../PlayFrameworkLoginAuthenticationExample-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-http-scala-docker-seed-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-samples-persistence-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-multi-multi-project-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-multiproject-template-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-samples-play-scala-isolated-slick-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-samples-play-scala-slick-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-vue-webpack-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sbt-multi-docker-example-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sbt-vuefy-master/test-play-project" value="PREVIEW" />
+        <entry key="$USER_HOME$/nc/akkahttp-quickstart" value="PREVIEW" />
+        <entry key="$USER_HOME$/nc/nc-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/nc/nc-sec-api-fe-fresh" value="PREVIEW" />
+        <entry key="$USER_HOME$/nc/sbt-multi-project-example-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/nc/textprivacy-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/nc/tp-docker" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28e7e325-5d90-467f-9d70-15bd89f065d4" name="Default Changelist" comment="" />
+      <created>1576101309796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576101309796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1598" height="345" key="GridCell.Tab.0.bottom" timestamp="1576343239612">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.0.bottom/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239612" />
+    <state width="1598" height="345" key="GridCell.Tab.0.center" timestamp="1576343239612">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.0.center/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239612" />
+    <state width="1598" height="345" key="GridCell.Tab.0.left" timestamp="1576343239611">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.0.left/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239611" />
+    <state width="1598" height="345" key="GridCell.Tab.0.right" timestamp="1576343239612">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.0.right/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239612" />
+    <state width="1598" height="345" key="GridCell.Tab.1.bottom" timestamp="1576343239614">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.1.bottom/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239614" />
+    <state width="1598" height="345" key="GridCell.Tab.1.center" timestamp="1576343239613">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.1.center/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239613" />
+    <state width="1598" height="345" key="GridCell.Tab.1.left" timestamp="1576343239613">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.1.left/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239613" />
+    <state width="1598" height="345" key="GridCell.Tab.1.right" timestamp="1576343239613">
+      <screen x="39" y="23" width="3401" height="1417" />
+    </state>
+    <state width="1598" height="345" key="GridCell.Tab.1.right/39.23.3401.1417@39.23.3401.1417" timestamp="1576343239613" />
+  </component>
+</project>
